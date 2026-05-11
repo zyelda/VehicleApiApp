@@ -8,7 +8,7 @@ Berikut adalah tampilan antarmuka dari aplikasi ini. Semua gambar tersimpan di d
 
 | Halaman Login | Daftar Pasien | Detail Pasien | Form Tambah/Edit |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshot/Login.png" width="200"> | <img src="screenshot/Data.png" width="200"> | <img src="screenshot/Detail.png" width="200"> | <img src="screenshot/Form.png" width="200"> |
+| <img src="screenshot/Login.jpg" width="200"> | <img src="screenshot/Data.jpg" width="200"> | <img src="screenshot/Detail.jpg" width="200"> | <img src="screenshot/Form.jpg" width="200"> |
 
 ## 🛠️ Fitur Utama
 - **Autentikasi**: Login pengguna untuk mengakses data medis secara aman.
